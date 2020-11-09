@@ -329,7 +329,7 @@
         <zaphelp.version>2.2.2</zaphelp.version>
         <dependencycheck.version>1.2.3</dependencycheck.version>
         <svnkit.version>1.8.11</svnkit.version>
-        <joda.version>2.8.2</joda.version>
+        <joda.version>2.10.6</joda.version>
 
         <!-- Testing dependency versions -->
         <easymock.version>3.0</easymock.version>
